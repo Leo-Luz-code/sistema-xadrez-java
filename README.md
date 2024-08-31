@@ -14,4 +14,4 @@ A primeira versão será implementada no terminal. Futuramente, pretendo desenvo
 
 ## Motivações
 
-Revisar conceitos da Programação Orientada a Objetos, aprimorar a lógica de programação e o dominio da linguagem Java e claro, me divertir resolvendo os problemas que me deparar no desenvolvimento do projeto.
+Revisar conceitos da Programação Orientada a Objetos, praticar padrões de commits e git flow, aprimorar a lógica de programação e o dominio da linguagem Java e, certamente, me divertir resolvendo os problemas que me deparar no desenvolvimento do projeto.
